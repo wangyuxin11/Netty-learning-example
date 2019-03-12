@@ -106,3 +106,5 @@
   - [x] [Gatling简单测试SpringBoot工程](https://www.cnblogs.com/sanshengshui/p/9750478.html)
 
 
+Netty实现高性能的HTTP服务器
+https://blog.csdn.net/qq_42606051/article/details/83026723
